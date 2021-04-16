@@ -1,0 +1,4 @@
+﻿  UnitTest(Lab_5.1(B)).cpp
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.cpp(16,94): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.cpp(82,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UnitTest(Lab_5.1(B)).vcxproj -> C:\Users\dwtwm\source\repos\Lab_5.1(B)\Debug\UnitTest(Lab_5.1(B)).dll

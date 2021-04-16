@@ -1,0 +1,8 @@
+﻿  FuzzyNumber.cpp
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.cpp(16,94): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.cpp(16,96): warning C5043: 'FuzzyNumber::FuzzyNumber': exception specification does not match previous declaration
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.h(7): message : see declaration of 'FuzzyNumber::FuzzyNumber'
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.cpp(82,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.cpp(82,88): warning C5043: 'operator >>': exception specification does not match previous declaration
+C:\Users\dwtwm\source\repos\Lab_5.1(B)\Lab_5.1(B)\FuzzyNumber.h(22): message : see declaration of 'operator >>'
+  Lab_5.1(B).vcxproj -> C:\Users\dwtwm\source\repos\Lab_5.1(B)\Debug\Lab_5.1(B).exe
